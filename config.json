@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/food_blog",
+    "prod_uri":"mysql://root:@localhost/food_blog",
+    "fb_url":"https://facebook.com/food_blog",
+    "tw_url":"https://twitter.com/food_blog",
+    "gh_url": "https://github.com/food_blog",
+    "blog_name" : "Technology",
+    "tag_line" : "Let learn about some Technology",
+    "gmail-user" :"",
+    "gmail-password" :"",
+    "about_text" : "My name is Sahil Pawale. I am pursuing B-Tech student at VIT Bhopal's Computer Science Department. I was born and raised in Maharashtra. I like to read historical books. I believe history teaches us a lot about different mistakes and achievements of the past, which can help us make informed decisions in the present and shape a better future. I have experience working with both front-end and back-end development and am proficient in HTML, CSS, JavaScript, and more. I also have experience with popular web frameworks such as Flask. In addition to web development, I have a passion for data analysis and machine learning and have developed several applications that utilise these technologies. I have contributed to several open source projects on Github and am committed to continuing to learn and grow as a developer. My goal is to leverage my skills and expertise to create innovative solutions that solve real-world problems and contribute to the development community.",
+    "no_of_posts" : 2,
+    "login_image" : "login.jpg",
+    "admin_user" : "admin",
+    "admin_password" : "password",
+    "upload_location" : "C:\\Users\\user\\Downloads\\Python Flask Blog\\static\\img",
+    "admin_name" : "SP"
+  }
+}
