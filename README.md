@@ -1,4 +1,4 @@
-![Web capture_23-10-2023_185557_127 0 0 1](https://github.com/Sahil9822/Python-Flask-Blog/assets/97694477/6dcc75d8-4d94-4523-a2f8-c7624f293575)Screenshot
+Screenshot
 1. Home Page
 ![Web capture_23-10-2023_18545_127 0 0 1](https://github.com/Sahil9822/Python-Flask-Blog/assets/97694477/d9f508ec-4443-42c9-b7d2-98d7345222ef)
 
@@ -8,7 +8,7 @@
 4. Contact Page
 ![Web capture_23-10-2023_185544_127 0 0 1](https://github.com/Sahil9822/Python-Flask-Blog/assets/97694477/4329148e-7061-4be9-ba3e-04d2949514b4)
 
-5. Edit Post Page
+5. Edit and Delete Post Page
 ![Web capture_23-10-2023_185557_127 0 0 1](https://github.com/Sahil9822/Python-Flask-Blog/assets/97694477/08648950-b0a4-4706-ad37-4a4f3cdc44a0)
 
 6. Add and Edit Post
