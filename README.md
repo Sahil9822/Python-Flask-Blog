@@ -14,5 +14,5 @@ Screenshot
 6. Add and Edit Post
 ![Web capture_23-10-2023_185616_127 0 0 1](https://github.com/Sahil9822/Python-Flask-Blog/assets/97694477/8b49f0ef-5510-4c31-8885-d6931574501b)
 
-7. Signin Page
+7. Login Page
 ![Web capture_23-10-2023_185629_127 0 0 1](https://github.com/Sahil9822/Python-Flask-Blog/assets/97694477/e89478dc-c5eb-4e24-870b-8dc89e96d180)
